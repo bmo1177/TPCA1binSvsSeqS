@@ -8,6 +8,7 @@ Recherche Binaire: Cet algorithme divise le tableau en deux parties à chaque it
 Résultats des Mesures
 Le tableau ci-dessous présente le temps d'exécution moyen des deux algorithmes pour différentes tailles de tableau :
 Taille du tableau	Recherche Séquentielle (s)	Recherche Binaire (s)
+
 1000:	0.000000640000	0.000000050000                 
 10000:	0.000009050000	0.000000090000                
 100000:	0.000090810000	0.000000100000                   
